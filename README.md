@@ -5,21 +5,15 @@ This project implements the TOPSIS (Technique for Order Preference by Similarity
 TOPSIS is a widely used MCDM method that ranks a set of alternatives based on their distance from an ideal best and ideal worst solution. It is based on the principle that the chosen alternative should have the shortest distance from the positive ideal solution and the farthest from the negative ideal solution.
 
 💡 Features
-Accepts a decision matrix with criteria weights
-
-Normalizes data and calculates ideal solutions
-
-Ranks alternatives based on TOPSIS score
-
-Customizable for any domain: education, finance, healthcare, etc.
+- Accepts a decision matrix with criteria weights
+- Normalizes data and calculates ideal solutions
+- Ranks alternatives based on TOPSIS score
+- Customizable for any domain: education, finance, healthcare, etc.
 
 
 🛠️ Technologies Used
-Python 3.x
-
-NumPy
-
-Pandas
-
-Jupyter Notebook
+- Python
+- NumPy
+- Pandas
+- Jupyter Notebook
 
